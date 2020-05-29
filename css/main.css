@@ -1,0 +1,102 @@
+body {
+	font-family: arial;
+}
+
+/* Navigation*/
+
+
+nav {
+	background: #cc5500 ;
+	height: 125px;
+}
+
+header {
+	margin-left: 500px;
+	font-family:arial;
+	 font-size:30px;
+	  color: black;
+	  font-weight: bold;
+}
+
+a {
+	line-height: 4;
+	color: white;
+	text-decoration: none;
+	margin-left: 30px;
+	position: relative;
+	top: 0px;
+	left: 00px; 
+}
+
+a.hover {
+	color: yellow;
+}
+
+a.active {
+	color: white;
+}
+
+section#logo {
+	color: white;
+	font-size: 30;
+	margin-left: 20px;
+	margin-right: 20px;
+	margin-top: -40px;
+
+
+}
+
+img#slideshow {
+	margin-top: 20px;
+	margin-left: 600px;
+	margin-right: 10px;
+
+	max-width:10%;
+  	max-height:10%;	
+}
+
+section#degree {
+	margin-left: 300px;
+	margin-right: 600px;
+	word-wrap: break-word;
+}
+
+section#paragraph {
+	font-family: arial;
+	margin-left: 500px;
+	margin-right: 500px;
+	word-wrap: break-word;
+}
+
+section#contact {
+	margin-left: 600px;
+}
+
+section#project1 {
+	margin-left: 500px;
+	margin-right: 500px;
+}
+
+section#project2 {
+	margin-left: 500px;
+	margin-right: 500px;
+}
+
+section#project3 {
+	margin-left: 500px;
+	margin-right: 500px;
+}
+
+footer {
+	color: white;
+	background-color: #6A2C3E;
+	position: relative;
+	margin-top: -100px;
+	clear: both;
+}
+/* color: white;
+	background-color: #6A2C3E;
+	position: absolute;
+	margin-left: 0px;
+    bottom: 0;
+    width: 100%;*/
