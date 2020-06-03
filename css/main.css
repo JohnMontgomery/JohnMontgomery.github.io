@@ -10,13 +10,20 @@ nav {
 	height: 125px;
 }
 
+#name-tag {
+	margin-right: 1250px;
+	margin-bottom: 100px;
+}
+
 header {
 	margin-left: 500px;
+	margin-top: 20px;
 	font-family:arial;
 	 font-size:30px;
 	  color: black;
 	  font-weight: bold;
 }
+
 
 a {
 	line-height: 4;
@@ -72,6 +79,15 @@ section#contact {
 	margin-left: 600px;
 }
 
+img#projects-slide {
+	margin-left: 500px;
+}
+
+p#intro {
+margin-left: 500px;
+	margin-right: 500px;
+}
+
 section#project1 {
 	margin-left: 500px;
 	margin-right: 500px;
@@ -87,6 +103,31 @@ section#project3 {
 	margin-right: 500px;
 }
 
+section#page-title {
+	margin-top: 10px;
+}
+
+#page-container {
+	position: relative;
+	min-height: 100vh;
+}
+
+#content-wrap {
+	padding-bottom: 100px;
+}
+
+footer {
+	color: white;
+	background-color: #6A2C3E;
+	position: absolute;
+  bottom: 0;
+  width: 100%;
+  height: 100px;
+}
+
+
+/* 
+
 footer {
 	color: white;
 	background-color: #6A2C3E;
@@ -94,7 +135,7 @@ footer {
 	margin-top: -100px;
 	clear: both;
 }
-/* color: white;
+color: white;
 	background-color: #6A2C3E;
 	position: absolute;
 	margin-left: 0px;
