@@ -88,6 +88,10 @@ margin-left: 500px;
 	margin-right: 500px;
 }
 
+p#bottom-text {
+	margin-bottom: 100px;
+}
+
 section#project1 {
 	margin-left: 500px;
 	margin-right: 500px;
