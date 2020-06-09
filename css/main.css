@@ -43,6 +43,12 @@ a.active {
 	color: white;
 }
 
+a#resume {
+	color:blue;
+	margin-left: 0px;
+	
+}
+
 section#logo {
 	color: white;
 	font-size: 30;
